@@ -1,5 +1,6 @@
-This was the first solo project in Scrimba - Learn React series. 
+PROJECT LINK
 
+https://alexanderwojno.vercel.app
 
 
 
